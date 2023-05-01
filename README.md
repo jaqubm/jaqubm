@@ -1,5 +1,5 @@
 # 👋 Hi!
-I am second-year Computer Science student at Lodz University of Technology with a passion for programming, a person who loves to code and get known with new technologies and programming tools.
+My name is Jakub, I am 21 years old and currently I am living in Lodz city in Poland. I am second-year Computer Science student at Lodz University of Technology. I always seek for new adventures and opportunities to be better, as a person and as a programmer! I can surely admit that I am distinguished by stubborness and conscientiousness.
 
 
 ## 🌐 Socials:
