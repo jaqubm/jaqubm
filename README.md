@@ -6,7 +6,7 @@ My name is Jakub, I am 21 years old and currently I am living in Lodz city in Po
 
 <div style="display: flex; 
             allign-items: center; 
-            gap: 9px;">
+            gap: 3%;">
   <img src="./icons/react.svg" height="30" />
   <img src="./icons/javascript.svg" height="30" />
   <img src="./icons/tailwindcss-icon.svg" height="30" />
