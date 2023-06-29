@@ -19,7 +19,6 @@ My name is Jakub, I am 21 years old and currently I am living in Lodz city in Po
   <img src="./icons/macos-white.png" height="30" />
   <img src="./icons/microsoft-windows.svg" height="30" />
 </div>
-<br/>
 
 # 📊 GitHub Stats:
 
