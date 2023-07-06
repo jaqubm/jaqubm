@@ -5,10 +5,9 @@ My name is Jakub, I am 21 years old and currently I am living in Lodz city in Po
 # 💻 Tech Stack:
 
 <div style="display: flex; 
-            allign-items: center; 
-            gap: 3%;">
-  <img src="./icons/react.svg" height="30" />
+            allign-items: center;">
   <img src="./icons/javascript.svg" height="30" />
+  <img src="./icons/react.svg" height="30" />
   <img src="./icons/tailwindcss-icon.svg" height="30" />
   <img src="./icons/css-3.svg" height="30" />
   <img src="./icons/html-5.svg" height="30" />
