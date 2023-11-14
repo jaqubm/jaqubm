@@ -6,8 +6,9 @@
 
 # 💻 Tech Stack:
 
+- C# / .NET
+- C / C++
 - Java
-- C/C++
 - React
 - JavaScript
 - HTML/CSS
