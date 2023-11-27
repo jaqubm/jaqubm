@@ -12,7 +12,7 @@
 - C / C++
 - Java
 - React
-- JavaScript
+- TypeScript
 - HTML/CSS
 - MySQL
 - Git
