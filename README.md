@@ -14,6 +14,6 @@
 - React
 - TypeScript
 - HTML/CSS
-- MySQL
+- MS SQL
 - Git
 - GitHub
