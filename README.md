@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
- I am a Software Engineer and C# / .NET Developer currently pursuing Engineer's Degree in Computer Science at Lodz University of Technology. I'm a person who loves to code and get known with new technologies.
+ I'm a C# / .NET Developer currently pursuing Engineer's Degree in Computer Science at Lodz University of Technology. Person who loves to code and get known with new technologies.
 
 ## <a href="https://www.linkedin.com/in/jaqubm/" target="_blank" style="color: inherit;">Find me on LinkedIn!</a>
 
